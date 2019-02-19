@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 7.2 13.3" style="enable-background:new 0 0 7.2 13.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_1_);fill:#999999;}
+	.st3{fill:rgb(198,198,198);}
+</style>
+<title>Page 1@2x</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1_1_">
+	<g id="_x35_常见问题" transform="translate(-347.000000, -82.000000)">
+		<g id="Group-7" transform="translate(-1.000000, 64.000000)">
+			<g id="Page-1" transform="translate(348.500000, 18.500000)">
+				<g id="Group-3" transform="translate(0.000000, 6.071391)">
+					<g id="Clip-2">
+					</g>
+					<defs>
+						<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-0.5" y="-0.5" width="7.2" height="7.2">
+							<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="-0.5" y="-0.5" width="7.2" height="7.2" id="mask-2_1_">
+						<g class="st0">
+							<polygon id="path-1_1_" class="st1" points="-0.5,-0.5 -0.5,6.7 6.7,6.7 6.7,-0.5 							"/>
+						</g>
+					</mask>
+					<path id="Fill-1" class="st3" d="M5.7-0.3c0.2-0.2,0.6-0.2,0.9,0c0.2,0.2,0.2,0.6,0,0.9l-6,6c-0.2,0.2-0.6,0.2-0.9,0
+						c-0.2-0.2-0.2-0.6,0-0.9L5.7-0.3z"/>
+				</g>
+				<path id="Fill-4" class="st3" d="M-0.3,0.5c-0.2-0.2-0.2-0.6,0-0.9c0.2-0.2,0.6-0.2,0.9,0l6,6c0.2,0.2,0.2,0.6,0,0.9
+					c-0.2,0.2-0.6,0.2-0.9,0L-0.3,0.5z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
